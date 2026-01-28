@@ -1,0 +1,2 @@
+DB_URL = "postgresql+psycopg2://postgres:postgres123@localhost:5432/dummy_pipeline"
+
